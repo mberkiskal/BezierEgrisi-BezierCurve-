@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\Musa_Berk_ISKAL_1200505026\bin\Debug\Musa_Berk_ISKAL_1200505026.exe.config
+C:\Users\User\Desktop\Musa_Berk_ISKAL_1200505026\bin\Debug\Musa_Berk_ISKAL_1200505026.exe
+C:\Users\User\Desktop\Musa_Berk_ISKAL_1200505026\bin\Debug\Musa_Berk_ISKAL_1200505026.pdb
+C:\Users\User\Desktop\Musa_Berk_ISKAL_1200505026\obj\Debug\Musa_Berk_ISKAL_1200505026.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Musa_Berk_ISKAL_1200505026\obj\Debug\Musa_Berk_ISKAL_1200505026.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Musa_Berk_ISKAL_1200505026\obj\Debug\Musa_Berk_ISKAL_1200505026.Form1.resources
+C:\Users\User\Desktop\Musa_Berk_ISKAL_1200505026\obj\Debug\Musa_Berk_ISKAL_1200505026.Properties.Resources.resources
+C:\Users\User\Desktop\Musa_Berk_ISKAL_1200505026\obj\Debug\Musa_Berk_ISKAL_1200505026.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Musa_Berk_ISKAL_1200505026\obj\Debug\Musa_Berk_ISKAL_1200505026.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Musa_Berk_ISKAL_1200505026\obj\Debug\Musa_Berk_ISKAL_1200505026.exe
+C:\Users\User\Desktop\Musa_Berk_ISKAL_1200505026\obj\Debug\Musa_Berk_ISKAL_1200505026.pdb
+C:\Users\User\Desktop\DERS\Bilgisayar Grafikleri\Musa_Berk_ISKAL_1200505026\bin\Debug\Musa_Berk_ISKAL_1200505026.exe.config
+C:\Users\User\Desktop\DERS\Bilgisayar Grafikleri\Musa_Berk_ISKAL_1200505026\bin\Debug\Musa_Berk_ISKAL_1200505026.exe
+C:\Users\User\Desktop\DERS\Bilgisayar Grafikleri\Musa_Berk_ISKAL_1200505026\bin\Debug\Musa_Berk_ISKAL_1200505026.pdb
+C:\Users\User\Desktop\DERS\Bilgisayar Grafikleri\Musa_Berk_ISKAL_1200505026\obj\Debug\Musa_Berk_ISKAL_1200505026.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DERS\Bilgisayar Grafikleri\Musa_Berk_ISKAL_1200505026\obj\Debug\Musa_Berk_ISKAL_1200505026.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\DERS\Bilgisayar Grafikleri\Musa_Berk_ISKAL_1200505026\obj\Debug\Musa_Berk_ISKAL_1200505026.Form1.resources
+C:\Users\User\Desktop\DERS\Bilgisayar Grafikleri\Musa_Berk_ISKAL_1200505026\obj\Debug\Musa_Berk_ISKAL_1200505026.Properties.Resources.resources
+C:\Users\User\Desktop\DERS\Bilgisayar Grafikleri\Musa_Berk_ISKAL_1200505026\obj\Debug\Musa_Berk_ISKAL_1200505026.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DERS\Bilgisayar Grafikleri\Musa_Berk_ISKAL_1200505026\obj\Debug\Musa_Berk_ISKAL_1200505026.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DERS\Bilgisayar Grafikleri\Musa_Berk_ISKAL_1200505026\obj\Debug\Musa_Berk_ISKAL_1200505026.exe
+C:\Users\User\Desktop\DERS\Bilgisayar Grafikleri\Musa_Berk_ISKAL_1200505026\obj\Debug\Musa_Berk_ISKAL_1200505026.pdb
